@@ -1,11 +1,11 @@
-I
+/*I
 Just
 Love
 Typescript
 I
 Just
 Love
-Typescript
+Typescript*/
 let i: number = 0;
 let j: number = 0;
 let k: number = 0;
